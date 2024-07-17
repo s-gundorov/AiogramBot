@@ -1,0 +1,251 @@
+|WIN:
+|0:Number:34745
+|0:Num: 1122
+|0:Date:26.09.2024
+|0:EDate:  .  .
+|0:CurDate:14.07.2024
+|0:DateTarif:24.04.2024
+|0:DateOplat:02.10.2024
+|0:Day:26
+|0:Month:сентября
+|0:Year:2024
+|0:Time: 9:00
+|0:Note:ОПТ/
+|0:Note2:
+|0:SumZalog:3000.00
+|0:SumZalogRub:3000.00
+|0:ProbegBeg:
+|0:ProbegEnd:
+|0:ProbegDog:
+|0:Pereprobeg:
+|0:ProbegTO:
+|0:KmPrice2:4.00
+|0:SumPereprobeg:
+|0:LimitProbeg:1500
+|0:LimitKm:250
+|0:LimitWeekend:500
+|0:Kurs:  1.0000
+|0:Territ:Красноярский край, республик Хакасия и Тыва.
+|0:SotrName:Лебедева Анастасия Юрьевна
+|0:SotrTitle:менеджер по работе с клиентами
+|0:SotrNote:№7 23.12.2023
+|0:ToplivoOut:
+|0:ToplivoVoz:
+|0:Toplivo:
+|0:DogType:
+|0:PlatType:Наличные
+|0:Tarif:"Стандарт"
+|0:PrPlan:Стандарт
+|0:Store1:АЭРОПОРТ Емельяново
+|0:Store2:АЭРОПОРТ Емельяново
+|0:Tar1:3310.00
+|0:Tar2:3150.00
+|0:Tar3:2990.00
+|0:Tar4:2850.00
+|0:Tar5:2700.00
+|0:Dop1:Дополнительный платеж
+|0:SumDop1:
+|0:SumDopRub1:
+|0:SumDopNac1:111.00
+|0:SumDopNDS1:
+|0:QuantDop1:0
+|0:SumDopProp:Ноль
+|0:LastPlat:16200.00
+|0:NoLastPlat:
+|0:LastNDS:2471.19
+|0:LastProp:Шестнадцать тысяч двести
+|0:Days:6
+|0:DovDate:02.10.2024
+|0:VozDate:02.10.2024
+|0:EndDate:02.10.2024
+|0:EndTime: 9:00
+|0:Price:2700.00
+|0:PriceRub:2700.00
+|0:PriceSk:2700.00
+|0:PriceDay:3150.00
+|0:PriceDaySk:3150.00
+|0:PriceKm:2.00
+|0:PriceKm2:4.00
+|0:HourPPrice:350.00
+|0:HourDayPrice:
+|0:HourNightPrice:
+|0:Hour3Price:
+|0:HourWeekPrice:
+|0:Kateg:2
+|0:Skidka:
+|0:SkidkaRub:
+|0:SumDop:
+|0:SumDopRub:
+|0:SumDopVoz:
+|0:PriceDay:2700.00
+|0:Balans:-111.00
+|0:SumOut:16200.00
+|0:SumOutRub:16200.00
+|0:SumOutPrice:16200.00
+|0:SumOutNoNDS:13728.81
+|0:ProcSk:
+|0:SumOutNDS:2471.19
+|0:SumPlat:16200.00
+|0:SumPlatRub:16200.00
+|0:SumPred:19200.00
+|0:SumPredRub:19200.00
+|0:Sum:16311.00
+|0:SumNoSkidk:16200.00
+|0:SumProk:16200.00
+|0:SumSkidk:
+|0:SumSkidkRub:
+|0:SumNoSkidkNac:16311.00
+|0:SumProkNac:16311.00
+|0:SumSkidkNac:
+|0:SumSkidkRubNac:
+|0:SumNDS:2488.12
+|0:SumNoNDS:13822.88
+|0:PriceNoNDS:2288.14
+|0:PriceNoSk:2288.14
+|0:SumOcen:30000.00
+|0:SumRub:16311.00
+|0:SumProp:Шестнадцать тысяч триста одиннадцать руб. 00 коп.
+|0:SumPropRub:Шестнадцать тысяч триста одиннадцать
+|0:SumZalogProp:Три тысячи руб. 00 коп.
+|0:SumPlatRubProp:Шестнадцать тысяч двести руб. 00 коп.
+|0:SumOcenProp:Тридцать тысяч руб. 00 коп.
+|0:PriceProp:Две тысячи семьсот руб. 00 коп.
+|0:SumOutProp:Шестнадцать тысяч двести руб. 00 коп.
+|0:FirmName:-
+|0:FirmName2:
+|0:SvidReg:
+|0:FirmAddress:
+|0:FirmAddress2:
+|0:FirmPhone:
+|0:FirmFAX:
+|0:FirmEmail:
+|0:FirmDirector:
+|0:FirmTechDirector:
+|0:FirmGlavBuch:
+|0:FirmKassur:
+|0:FirmLogo:
+|0:FirmBIK:
+|0:FirmINN:
+|0:FirmKPP:
+|0:FirmOKONX:
+|0:FirmOKPO:
+|0:FirmSchet:
+|0:FirmKSchet:
+|0:FirmBank1:
+|0:FirmBank2:
+|0:FirmNote:
+|0:AutoTCode:10-38
+|0:AutoName:Hyundai Solaris, Т 965 НХ 124
+|0:AutoModel:Hyundai Solaris
+|0:AutoYear:2018
+|0:AutoGosNum:Т 965 НХ 124
+|0:AutoKuzNum:Z94K241CBKR078084
+|0:AutoDvigNum:
+|0:AutoShasiNum:отсутствует
+|0:AutoColor:черный
+|0:AutoNumPTS:78 ОУ 292344
+|0:AutoVydanPTS:
+|0:AutoDatePTS:17.02.2018
+|0:AutoNumSR:24 59 №985733
+|0:AutoVydanSR:
+|0:AutoDateSR:11.04.2018
+|0:AutoVIN:Z94K241CBKR078084
+|0:AutoNumGTO:
+|0:AutoSrokGTO:  .  .
+|0:AutoPhoto:
+|0:AutoProbeg: 259,851
+|0:AutoTalonTO:
+|0:AutoStrahNum:
+|0:AutoDescr:123 л.с., двигатель 1,6л, бензин, 4 стеклоподъемника, подогрев передних сидений, седан, кондиционер.
+|0:AutoNote:БР Макаров 19.03-23.03
+|0:AutoRez4:
+|0:AutoRez5:
+|0:AutoRez6:
+|0:AutoNumKASKO:
+|0:AutoOrgKASKO:
+|0:AutoEDateKASKO:  .  .
+|0:AutoNumOSAGO:№ ААМ 5073949214
+|0:AutoOrgOSAGO:Ресо-Гарантия
+|0:AutoEDateOSAGO:10.10.2024
+|0:AutoVladSR:РКК ООО
+|0:AutoBak:55
+|0:AutoTypeTS:легковой
+|0:AutoCategTS:В
+|0:AutoBenzin: АИ-95
+|0:AutoCountry:Корея
+|0:AutoTO1: 15000
+|0:AutoDogNum:
+|0:AutoDvigOb:1600
+|0:AutoDvigPw:123
+|0:AutoTypeKPP:АКПП
+|0:CliCode:25454
+|0:CliName:Михайлов Павел Николаевич
+|0:CliLName:Михайлов
+|0:CliFName:Павел
+|0:CliSName:Николаевич
+|0:CliName2:
+|0:CliFIO:Михайлов П.Н.
+|0:CliAddress:Россия, г.Норильск, ЛЕНИНГРАДСКАЯ УЛ, д.16, кв.49
+|0:CliCountry:Россия
+|0:CliRogDate:21.04.1985
+|0:CliPhone:+79048990509 ,+79138300102 Домашний
+|0:CliEmail:
+|0:CliPasportNum:04 18 273404
+|0:CliPasport:04 18 273404
+|0:CliPasportWydan:ГУ МВД России по Красноярскому краю
+|0:CliExpDate:  .  .
+|0:CliPasportDate:07.11.2018
+|0:CliAddressProp:Россия, г.Норильск, ЛЕНИНГРАДСКАЯ УЛ, д.16, кв.49
+|0:CliGragd:Россия
+|0:CliVodNum:24 21 612188
+|0:CliVod:24 21 612188
+|0:CliVodVydan:ГИБДД 2402
+|0:CliVodDate:29.04.2025
+|0:CliVodDateVyd:  .  .
+|0:CliVodStag:2024
+|0:CliPhoto:
+|0:Saldo:-10371
+|0:Skidka:0
+|0:CliNote:
+|0:CliRezStr:
+|0:CliRezStr2:
+|0:CliCardID:
+|0:OrgName:
+|0:OrgFIO:
+|0:OrgTitle:
+|0:OrgAddress:
+|0:OrgAddress2:
+|0:OrgOsnov:
+|0:OrgINN:
+|0:OrgKPP:
+|0:OrgBIK:
+|0:OrgSchet:
+|0:OrgKSchet:
+|0:OrgBank:
+|0:OrgOGRN:
+|0:OrgDogNum:
+|0:OrgDirector:
+|0:OrgPhone:
+|0:OrgFax:
+|0:OrgEmail:
+|0:OrgWebSite:
+|0:OrgRezerv:
+|0:OrgRezerv2:
+|0:Vod1Name:Жабенец Дмитрий Игоревич
+|0:Vod1Pasp:4611 500070
+|0:Vod1PaspWydan:ОУФМС России по Московской обл. по Можайскому муниципальному району
+|0:Vod1PaspDate:27.09.2001
+|0:Vod1Vod:50OY41150
+|0:Vod1VodVydan:
+|0:Vod1VodDate:  .  .
+|0:Vod1Address:Гор. Можайск, Пролетарский проезд, д8,
+|0:Vod1Phone:+79266504429
+|0:Vod2Name:МИХАЛЕВ ИЛЬЯ ВЯЧЕСЛАВОВИЧ
+|0:Vod2Pasp:0502 944048
+|0:Vod2PaspWydan:ЛЕНИНСКИМ РУВД ГОР. ВЛАДИВОСТОКА
+|0:Vod2PaspDate:01.07.2002
+|0:Vod2Vod:9900 234937
+|0:Vod2VodVydan:гибдд 2501
+|0:Vod2VodDate:06.08.2028
+|0:Vod2Address:Г. ВЛАДИВОСТОК, УЛ. К-ЛИХБКНЕХТА, Д.14, КВ.3
+|0:Vod2Phone:+79140724672
