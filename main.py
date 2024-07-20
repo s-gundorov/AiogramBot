@@ -5,6 +5,10 @@ from aiogram.types import Message, FSInputFile
 from gtts import gTTS
 import os
 from googletrans import Translator
+import keyboard as kb
+from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
+from aiogram.types import Message, FSInputFile, CallbackQuery
+
 
 from config import TOKEN
 import random
@@ -15,7 +19,15 @@ translator = Translator()
 
 @dp.message(CommandStart())
 async def start(message: Message):
-    await message.answer(f'Привет, {message.from_user.first_name}')
+#   await message.answer(f'Привет, {message.from_user.first_name}', reply_markup=kb.inline_keyboard_test)
+#   await message.answer(f'Привет, {message.from_user.first_name}', reply_markup=await kb.test_keyboard())
+    await message.answer(f'Привет, {message.from_user.first_name} !', reply_markup=kb.inline_keyboard_test)
+
+@dp.callback_query(F.data == 'news')
+async def news(callback: CallbackQuery):
+    await callback.answer("Новости подгружаются", show_alert=True)
+#   await callback.message.answer('Вот свежие новости!')
+    await callback.message.edit_text('Вот еще новости!', reply_markup=await kb.test_keyboard())
 
 @dp.message(Command('help'))
 async def help(message: Message):
@@ -95,6 +107,13 @@ async def translate_message(message: Message):
     if message.text:
         translation = translator.translate(message.text, dest='ru')
         await message.answer(translation.text)
+
+async def test_keyboard():
+    keyboard = InlineKeyboardBuilder()
+    for key in test:
+        keyboard.add(KeyboardButton(text=key))
+    return keyboard.adjust(2).as_markup()
+
 
 async def main():
     await dp.start_polling(bot)

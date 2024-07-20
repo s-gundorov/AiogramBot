@@ -16,8 +16,8 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 translator = Translator()
 
-
 logging.basicConfig(level=logging.INFO)
+
 class Form(StatesGroup):
     name = State()
     age = State()
